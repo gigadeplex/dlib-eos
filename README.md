@@ -5,5 +5,4 @@ Demonstrating how to extract facial landmarks from an image using dlib, fit a fa
 * [Link to dlib](https://github.com/patrikhuber/eos/tree/master/)
 
 ## Problems loading the notebook? 
-### Try using the official Jupyter Notebook viewer
-#### [Click here](https://nbviewer.jupyter.org/github/gigadeplex/dlib-eos/blob/master/dlib-eos.ipynb)
+Try using the official Jupyter Notebook viewer: [Click here.](https://nbviewer.jupyter.org/github/gigadeplex/dlib-eos/blob/master/dlib-eos.ipynb)
